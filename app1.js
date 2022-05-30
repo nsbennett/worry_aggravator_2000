@@ -95,7 +95,7 @@ worryEnhancerBtn.addEventListener('click', () => {
 // // Forward to general Worry Meditation to induce all consuming panic
 panicAcceleratorBtn.addEventListener('click', () => {
   // Text kept in JavaScript file to keep it away from prying eyes
-    document.getElementById("worry-meditation-text").innerText = "For the compulsive worrier such as yourself, in everything and behind everything is a cause for worry. Even if you have nothing to worry about, there will always be the things you didn't think of. Let your inability to think of them be the pilot light for your unease. Let your comfort stoke your fears of complacence. Let your peace break into full-fledged panic. Oh yes, oh yes! You feel it rising! NOW YOU HAVE YOUR HEALTH TO WORRY ABOUT! YOUR BLOOD PRESSURE IS SHOOTING THROUGH THE ROOF! YOUR HEART CAN'T TAKE IT ANYMORE! YES! YES!"
+    document.getElementById("worry-meditation-text").innerText = "For the compulsive worrier such as yourself, in everything and behind everything is a cause for worry. Even if you have nothing to worry about, there will always be the things you didn't think of. Let your inability to think of them be the pilot light for your unease. Let your comfort stoke your fears of complacency. Let your peace break into full-fledged panic. Oh yes, oh yes! You feel it rising! NOW YOU HAVE YOUR HEALTH TO WORRY ABOUT! YOUR BLOOD PRESSURE IS SHOOTING THROUGH THE ROOF! YOUR HEART CAN'T TAKE IT ANYMORE! YES! YES!"
       // Reveal final section
     document.getElementById('worry-meditation').className = "revealed";
 });
