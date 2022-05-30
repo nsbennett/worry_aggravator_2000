@@ -1,0 +1,8 @@
+/* My stylesheet for whatever Bootstrap doesn't do */
+.hidden {
+  display: none;
+}
+
+.revealed {
+  display: block;
+}
